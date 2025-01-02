@@ -4,10 +4,8 @@ Push your project here.
 
 ===
 
-Student Name: NOT-VIETNAMESE.
-
-Student ID: USTH-ID.
-
+Student Name: Nguyen Ngoc Minh
+Student ID: Ba9-043
 ===
 
 Good luck!!!
